@@ -1,0 +1,18 @@
+Vimrc location windows - C:\Users\MyUsername\_vimrc
+h, j, k, l
+$ - end
+0 - start
+d - delete
+dd - delete whole row
+p - put
+y - yank (copy)
+
+w - go to start of word
+e - go to end of word
+b - go back to start of word
+ge - go back to end of word
+
+u - undo
+Ctrl+r - redo
+ctrl+c - normal mode
+ESC remapped to CapsLock - normal mode
