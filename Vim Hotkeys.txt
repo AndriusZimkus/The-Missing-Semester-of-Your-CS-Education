@@ -16,3 +16,24 @@ u - undo
 Ctrl+r - redo
 ctrl+c - normal mode
 ESC remapped to CapsLock - normal mode
+
+G - end of file
+gg - start of file
+
+ctrl+u - scroll up
+ctrl+d - scroll down
+L - lowest line on screen
+M - middle
+H - highest line
+
+f - find in line
+F - find in line
+T - find in line back
+
+d - delete
+c - change
+x - delete character
+r - replace character
+
+ctrl+r - redo
+zz - center line
