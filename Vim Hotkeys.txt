@@ -37,3 +37,4 @@ r - replace character
 
 ctrl+r - redo
 zz - center line
+. - repeat edit
