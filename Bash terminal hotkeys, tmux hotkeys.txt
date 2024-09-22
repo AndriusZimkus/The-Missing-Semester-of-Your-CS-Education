@@ -1,0 +1,10 @@
+Bash:
+Ctrl + L - clear
+
+
+tmux:
+ctrl + b:
+	" - split horizontally
+	% - split vertically
+	direction - go to pane
+	z - zoom / unzoom pane
